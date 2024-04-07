@@ -1,0 +1,16 @@
+{
+  "name": "Scarefest ESP32-D0 LoRa Dev-Board"
+  "keywords": "wireless stick, v2.1, esp-d0, esp32 lora, wifi kit, oled",
+  "description": "A library for Joels Scarefest Dev Boards",
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/batdog1981/Heltec_ESP32_Wireless_Stick_v2.1.git"
+  },
+  "authors":{
+        "name": "Joel Olsen",
+        "email": "batdog1981@aim.com"
+   },
+  "version": "1.0",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
